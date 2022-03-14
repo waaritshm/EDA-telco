@@ -1,0 +1,2 @@
+# EDA-telco
+Exploratory Data Analysis is very important to do before the modeling stage. From this analysis answer the basic questions. Of course there is still much analysis that can be done from this dataset and the author only discusses a small part of it. The variety of available variables allows us to create new variables and find their relationship with the target variable so that it can add useful information for modeling.
